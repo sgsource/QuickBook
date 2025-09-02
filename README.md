@@ -37,11 +37,4 @@ QuickBook/
 └── plots/                  # Generated plots (PNG) from Python scripts
     ├── latency_vs_threads.png
     └── throughput_vs_threads.png
-
 ```
-
----
-
-This version clearly separates the **library** from the **benchmark executable** and keeps the focus on what a recruiter or collaborator needs to know.
-
-I can also draft a **“Getting Started” section** that explains how to build and run `benchmark.cpp` and generate plots from CSV if you want it fully polished for a portfolio. Do you want me to do that?
